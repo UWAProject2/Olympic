@@ -35,7 +35,8 @@
 
 ## 👉 About The Olympic Games<a name = "Olympic"></a>
 The Olympic Games are an international sports festival, held every four years. The ultimate goals are to cultivate human beings, through sport, and contribute to world peace. Summer Games and Winter Games are held separately. The history of the Olympics began some 2,300 years ago. Their origin lays in the Olympian Games, which were held in the Olympia area of ancient Greece. Although there are some theories on its initial purposes, the Games have been said to have started as a festival of art and sport, to worship gods. The ancient Olympic Games, however, ended in 393 because of the outbreaks of wars in the region in which they were held. After a 1,500 year absence of the ancient Olympic Games, the event was resumed in the late nineteenth century, thanks to the efforts of Baron Pierre de Coubertin, a French educator. In 1894, his proposal to revive the Olympic Games was unanimously approved at the International Congress in Paris, and the first Olympic Games were held in Athens, Greece, two years later. He also devised the five-ring emblem that is familiar to most people as the Games’ symbol, which represents the unity of the five continents.
-[Source Reference](https://www.2020games.metro.tokyo.lg.jp/eng/taikaijyunbi/olympic/olympic/index.html#:~:text=The%20Olympic%20Games%20are%20an,Winter%20Games%20are%20held%20separately "Source Reference")
+
+[Reference source](https://www.2020games.metro.tokyo.lg.jp/eng/taikaijyunbi/olympic/olympic/index.html#:~:text=The%20Olympic%20Games%20are%20an,Winter%20Games%20are%20held%20separately "Source Reference")
 
 ## 👉 Motivation <a name = "Motivation"></a>
 **Motivation:**
