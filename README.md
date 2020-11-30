@@ -87,7 +87,13 @@ Below is a diagram showing the relationship (ERD)
 
 ![](https://github.com/UWAProject2/Olympic/blob/main/Resources/QuickDBD-olympic.png?raw=true)
 
+## 👉 Bonus - Michael Phelps- <a name = "Bonus"></a>
+We did a scraping using Pandas to find information regarding the athlete that won the most medal in the history.
 
+Michael Phelps
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg/220px-Michael_Phelps_Rio_Olympics_2016.jpg)
+[Reference source](https://en.wikipedia.org/wiki/Michael_Phelps)
 
 
 
