@@ -3,8 +3,8 @@
  <img width=400px height=200px src="https://www.sevenstepswriting.com/wp-content/uploads/2016/08/olympic-rings-on-white-2.jpg" alt="Olympic logo"></a>
 </p>
 
-<h2 align="center">120 years of Olympic history</h2>
-<h3 align="center">basic bio data on athletes and medal results from Athens 1896 to Rio 2016</h3>
+<h2 align="center">100 years of Olympic history</h2>
+<h3 align="center">basic bio data on athletes and medal results from Athens 1916 to Rio 2016</h3>
 
 <div align="center">
 
