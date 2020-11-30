@@ -52,7 +52,27 @@ We have two set of data in CSV format which can be downloaded from [Kaggle](http
 
 ## 👉 Transform <a name = "Transfrom"></a>
 We loaded two set of data using Pandas (pd.read_csv)
-We first remove all the NaaN value under the column Medal as the dataset aim to provide analysis on those athlete who won medal.This will also help reducing the size of the dataset. 
+
+Below is the summary of our dataframe cleanup process:
+1. Remove all the NaaN value under the column Medal as the dataset aim to provide analysis on those athlete who won medal.This will also help reducing the size of the dataset. 
+
+![](https://github.com/UWAProject2/Olympic/blob/main/Resources/NaaNClean.PNG)
+
+2. Rename all the column name and making sure the column name are all in lower case. It will help to load the data to SQL database to have all column name in lower case.
+
+![](https://github.com/UWAProject2/Olympic/blob/main/Resources/rename.JPG?raw=true)
+
+3. Check whether there is any duplicated information.
+
+![](https://github.com/UWAProject2/Olympic/blob/main/Resources/duplicate.JPG?raw=true)
+
+The result shows there is duplicated rows. However, after research of those athletes, they indeed have won two medal on that game. Therefore, we did not remove those rows.
+
+4. We then drop the columns that not relevant to the analysis
+
+5. We also added an age bin into the dataframe to help with the analysis.
+
+![](https://github.com/UWAProject2/Olympic/blob/main/Resources/agebin.JPG?raw=true)
 
 
 
