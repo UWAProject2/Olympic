@@ -93,6 +93,7 @@ We did a scraping using Pandas to find information regarding the athlete that wo
 Michael Phelps
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg/220px-Michael_Phelps_Rio_Olympics_2016.jpg)
+
 [Reference source](https://en.wikipedia.org/wiki/Michael_Phelps)
 
 
