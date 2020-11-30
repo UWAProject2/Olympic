@@ -30,7 +30,7 @@
 ## 👉 Team Members<a name = "Team"></a>
 •	Steve
 •	Kelly
-•	Connorlane
+•	Connor
 •	Sandra
 
 ## 👉 About The Olympic Games<a name = "Olympic"></a>
