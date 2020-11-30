@@ -48,17 +48,17 @@ We aim to have our data to be able for our end user to answer below questions:
 4.	Which country held the most Olympic game
 
 ## 👉 Extract <a name = "Extract"></a>
-We have two set of data in CSV format which can be downloaded from [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results "Kaggle")
+We have two sets of data in CSV format which can be downloaded from [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results "Kaggle")
 
 ## 👉 Transform <a name = "Transfrom"></a>
-We loaded two set of data using Pandas (pd.read_csv)
+We loaded two sets of data using Pandas (pd.read_csv)
 
 Below is the summary of our dataframe cleanup process:
 1. Remove all the NaaN value under the column Medal as the dataset aim to provide analysis on those athlete who won medal.This will also help reducing the size of the dataset. 
 
 ![](https://github.com/UWAProject2/Olympic/blob/main/Resources/NaaNClean.PNG)
 
-2. Rename all the column name and making sure the column name are all in lower case. It will help to load the data to SQL database to have all column name in lower case.
+2. Rename all the column names and making sure the column names are all in lower case. It will help to load the data to SQL database to have all column name in lower case.
 
 ![](https://github.com/UWAProject2/Olympic/blob/main/Resources/rename.JPG?raw=true)
 
