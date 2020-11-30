@@ -66,7 +66,7 @@ Below is the summary of our dataframe cleanup process:
 
 ![](https://github.com/UWAProject2/Olympic/blob/main/Resources/duplicate.JPG?raw=true)
 
-The result shows there is duplicated rows. However, after research of those athletes, they indeed have won two medal on that game. Therefore, we did not remove those rows.
+Instead of removing the duplicated information, we have decided to only do 100 year analysis to give more accurate analysis.
 
 4. We then drop the columns that not relevant to the analysis
 
