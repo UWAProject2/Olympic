@@ -83,6 +83,11 @@ We have choosen Relational Database because of:
 2. Data is consistent in input, meaning, and easy to navigate.
 3. Relationships can be easily defined between data points.
 
+Below is a diagram showing the relationship (ERD)
+
+![](https://github.com/UWAProject2/Olympic/blob/main/Resources/QuickDBD-olympic.png?raw=true)
+
+
 
 
 
