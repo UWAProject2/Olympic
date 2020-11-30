@@ -75,6 +75,13 @@ The result shows there is duplicated rows. However, after research of those athl
 ![](https://github.com/UWAProject2/Olympic/blob/main/Resources/agebin.JPG?raw=true)
 
 
+## 👉 Load <a name = "Load"></a>
+
+We loaded the dataframe to SQL data. 
+We have choosen Relational Database because of:
+1. Data is easily structured into categories.
+2. Data is consistent in input, meaning, and easy to navigate.
+3. Relationships can be easily defined between data points.
 
 
 
