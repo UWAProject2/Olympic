@@ -50,6 +50,13 @@ We aim to have our data to be able for our end user to answer below questions:
 ## 👉 Extract <a name = "Extract"></a>
 We have two set of data in CSV format which can be downloaded from [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results "Kaggle")
 
+## 👉 Transform <a name = "Transfrom"></a>
+We loaded two set of data using Pandas (pd.read_csv)
+We first remove all the NaaN value under the column Medal as the dataset aim to provide analysis on those athlete who won medal.This will also help reducing the size of the dataset. 
+
+
+
+
 
 
 
